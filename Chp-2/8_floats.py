@@ -1,6 +1,6 @@
 # July 21, 2022
 # Muhammad Hamza Ashraf
-# This program was meant to explaint he concept of floats in python along 
+# This program was meant to explain the concept of floats in python along 
 # with a little bit of practice
 
 print(0.1 + 0.1)
